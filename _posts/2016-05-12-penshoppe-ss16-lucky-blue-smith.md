@@ -1,16 +1,18 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/150373658'
+inLanguage: null
+keywords: []
+description: 'This is "Penshoppe SS16 LUCKY BLUE SMITH" '
+datePublished: '2016-05-12T05:15:31.995Z'
+dateModified: '2016-05-12T05:15:27.568Z'
 author:
-  - name: KAISER BEAR
+  - name: ''
     url: 'http://vimeo.com/user5148085'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: 'This is "Penshoppe SS16 LUCKY BLUE SMITH" by on Vimeo, the home for high quality videos and the people who love them.'
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/150373658'
     type: ios
@@ -38,15 +40,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/150373658'
 title: Penshoppe SS16 LUCKY BLUE SMITH
-datePublished: '2016-05-12T04:57:33.197Z'
-dateModified: '2016-05-12T04:52:03.286Z'
-starred: false
 sourcePath: _posts/2016-05-12-penshoppe-ss16-lucky-blue-smith.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
