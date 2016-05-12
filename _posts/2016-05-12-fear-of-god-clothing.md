@@ -1,16 +1,18 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/145344216'
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-05-12T05:18:04.821Z'
+dateModified: '2016-05-12T05:16:07.781Z'
 author:
-  - name: KAISER BEAR
+  - name: ''
     url: 'http://vimeo.com/user5148085'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: 'This is "FEAR OF GOD CLOTHING" by on Vimeo, the home for high quality videos and the people who love them.'
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/145344216'
     type: ios
@@ -38,15 +40,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/145344216'
 title: FEAR OF GOD CLOTHING
-datePublished: '2016-05-12T05:06:00.852Z'
-dateModified: '2016-05-12T05:04:53.708Z'
-starred: false
 sourcePath: _posts/2016-05-12-fear-of-god-clothing.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
