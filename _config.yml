@@ -1,7 +1,7 @@
 name: kaiserbear
 favicon: null
-layout_spectrum: 0.8607832740526646
-typography_spectrum: 0.9620222407393157
+layout_spectrum: 0.99768
+typography_spectrum: 0.07554
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.47316657775081694
-  lightness: 0.3356830012053251
-  saturation: 0.40633351844735444
-  rhythmicContrast: 0.15543682081624866
+    - '#050608'
+    - '#ffffff'
+    - '#eb9c40'
+    - '#cc302d'
+    - '#797b7a'
+  brandStrength: 0.5
+  lightness: 0.75
+  saturation: 1
+  rhythmicContrast: 0.75
 purpose: []
