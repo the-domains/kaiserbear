@@ -1,14 +1,18 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/132371716'
+inLanguage: null
+keywords: []
+description: 'This is "DSW Fall 2015 / #shoeloversnotactors" '
+datePublished: '2016-05-12T05:21:29.234Z'
+dateModified: '2016-05-12T05:14:50.747Z'
 author:
   - avatar: {}
+    name: ''
+    url: ''
 related: []
-publisher:
-  url: 'https://vimeo.com'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: 'This is "DSW Fall 2015 / #shoeloversnotactors" by on Vimeo, the home for high quality videos and the people who love them.'
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/132371716'
     type: ios
@@ -36,15 +40,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/132371716'
 title: 'DSW Fall 2015 / #shoeloversnotactors'
-datePublished: '2016-05-12T05:08:38.394Z'
-dateModified: '2016-05-12T05:06:14.623Z'
-starred: false
 sourcePath: _posts/2016-05-12-dsw-fall-2015-shoeloversnotactors.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
