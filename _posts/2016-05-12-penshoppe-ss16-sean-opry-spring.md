@@ -40,8 +40,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/149683325'
 title: "PENSHOPPE SS16 SEAN O'PRY SPRING"
-datePublished: '2016-05-12T05:08:38.362Z'
-dateModified: '2016-05-12T05:07:01.227Z'
+datePublished: '2016-05-12T05:12:22.932Z'
+dateModified: '2016-05-12T05:12:06.992Z'
 starred: false
 sourcePath: _posts/2016-05-12-penshoppe-ss16-sean-opry-spring.md
 inFeed: true
