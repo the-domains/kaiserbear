@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[kaiserbear]]></title>
-        <description><![CDATA[kaiserbear]]></description>
+        <title><![CDATA[KAISER BEAR]]></title>
+        <description><![CDATA[KAISER BEAR]]></description>
         <link>https://thegrid.ai/kaiserbear/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 05:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 05:36:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kaiserbear/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d17551de-3d12-4b8b-b362-63b9f4003778.jpg">]]></description>
+            <link>https://thegrid.ai/kaiserbear/kaiser-bear-productions/index.html</link>
+            <guid isPermaLink="false">73fd973b-2b6b-44c6-b936-dd64acccbb5c</guid>
+            <pubDate>Thu, 12 May 2016 05:35:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Speed of Love]]></title>
             <description><![CDATA[<article><h1>Speed of Love</h1><p>Some take it slow. Others love like no tomorrow. Written & Directed by Nicholas Maggio Starring Nathan Mitchell & Mariella Valentino Director Of Photography Justin...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/288cc6a278c7f11ed4ec7c81806791f23724d8e3.jpg"></article>]]></description>
@@ -47,13 +54,6 @@
             <link>https://vimeo.com/128069986</link>
             <guid isPermaLink="false">3407d78b-6689-41a5-9247-241b2d19f7a9</guid>
             <pubDate>Thu, 12 May 2016 05:08:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d17551de-3d12-4b8b-b362-63b9f4003778.jpg">]]></description>
-            <link>https://thegrid.ai/kaiserbear/kaiser-bear-productions/index.html</link>
-            <guid isPermaLink="false">73fd973b-2b6b-44c6-b936-dd64acccbb5c</guid>
-            <pubDate>Thu, 12 May 2016 04:44:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
