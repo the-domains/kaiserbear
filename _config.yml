@@ -1,6 +1,6 @@
 name: kaiserbear
 favicon: null
-layout_spectrum: 0.99768
+layout_spectrum: 0.49351
 typography_spectrum: 0.07554
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#eb9c40'
     - '#cc302d'
     - '#797b7a'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 0.75
   saturation: 1
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0
 purpose: []
