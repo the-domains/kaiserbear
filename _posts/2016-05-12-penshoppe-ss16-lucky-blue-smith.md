@@ -5,9 +5,9 @@ inNav: false
 isBasedOnUrl: 'https://vimeo.com/150373658'
 inLanguage: null
 keywords: []
-description: 'This is "Penshoppe SS16 LUCKY BLUE SMITH" '
-datePublished: '2016-05-12T05:16:18.494Z'
-dateModified: '2016-05-12T05:15:37.604Z'
+description: ''
+datePublished: '2016-05-12T05:18:49.360Z'
+dateModified: '2016-05-12T05:18:34.405Z'
 author:
   - name: ''
     url: 'http://vimeo.com/user5148085'
