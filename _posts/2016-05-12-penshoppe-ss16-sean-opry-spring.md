@@ -1,16 +1,18 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/149683325'
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-05-15T21:15:11.825Z'
+dateModified: '2016-05-12T05:24:16.296Z'
 author:
-  - name: KAISER BEAR
-    url: 'http://vimeo.com/user5148085'
+  - name: ''
+    url: ''
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: "This is \"PENSHOPPE SS16 SEAN O'PRY SPRING\" by on Vimeo, the home for high quality videos and the people who love them."
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/149683325'
     type: ios
@@ -38,15 +40,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/149683325'
 title: "PENSHOPPE SS16 SEAN O'PRY SPRING"
-datePublished: '2016-05-12T05:12:22.932Z'
-dateModified: '2016-05-12T05:12:06.992Z'
-starred: false
 sourcePath: _posts/2016-05-12-penshoppe-ss16-sean-opry-spring.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
